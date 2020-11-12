@@ -1,0 +1,2 @@
+# Terminal-parcial-
+Parcial finalizado
